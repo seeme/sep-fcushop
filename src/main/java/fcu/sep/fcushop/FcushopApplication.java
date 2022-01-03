@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Comment again
  */
 @SpringBootApplication
-public class FcushopApplication {
+public class FcushopApplication 
 
   public static void main(String[] args) {
 
