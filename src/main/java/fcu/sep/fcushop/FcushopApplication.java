@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 /**
- * FCU SHOP
+ * FCU SHOP.
  * Comment again
  */
 @SpringBootApplication

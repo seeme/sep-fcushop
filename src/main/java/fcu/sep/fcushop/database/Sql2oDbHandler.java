@@ -5,6 +5,9 @@ import org.springframework.context.annotation.PropertySource;
 import org.springframework.stereotype.Service;
 import org.sql2o.Sql2o;
 
+/**
+ * The handler used to establish connections to the underlying database.
+ */
 @Service
 @PropertySource("classpath:application.properties")
 public class Sql2oDbHandler {
